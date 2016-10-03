@@ -3,6 +3,8 @@ kaggle-seizures
 
 Forecast seizures in patients with epilepsy using electrical brain activity data.
 
+https://www.kaggle.com/c/melbourne-university-seizure-prediction
+
 Project Organization
 ------------
 
